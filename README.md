@@ -1,4 +1,4 @@
-<div>
+
     <h1>🔍 Visual Search Engine using VLMs</h1>
     <p>A deep learning-based <strong>Visual Search Engine</strong> that retrieves similar images using <strong>Vision-Language Models (VLMs)</strong>. Supports <strong>image & text-based search</strong>, AI-powered <strong>feature extraction (ResNet-18)</strong>, and an interactive <strong>Streamlit UI</strong> for fast, efficient retrieval.</p>
 
@@ -13,12 +13,13 @@
 
     <h2>🛠 Installation</h2>
     <h3>1️⃣ Clone the Repository</h3>
-    <pre><code>git clone https://github.com/Krishnandu-Halder/Visual_Search_Engine_using_VLM.git
-cd Visual_Search_Engine_using_VLM</code></pre>
+    <h1>git clone https://github.com/Krishnandu-Halder/Visual_Search_Engine_using_VLM.git
+        cd Visual_Search_Engine_using_VLM
+     </h1>
 
     <h3>2️⃣ Create a Virtual Environment</h3>
     <pre><code>python -m venv venv
-source venv/bin/activate  # Windows: venv\Scripts\activate</code></pre>
+     source venv/bin/activate  # Windows: venv\Scripts\activate</code></pre>
 
     <h3>3️⃣ Install Dependencies</h3>
     <pre><code>pip install -r requirements.txt</code></pre>
@@ -38,16 +39,17 @@ source venv/bin/activate  # Windows: venv\Scripts\activate</code></pre>
     <pre><code>python search.py --text "A cat sitting on a chair"</code></pre>
 
     <h2>🏗 Project Structure</h2>
-    <pre>
-📂 Visual_Search_Engine_using_VLM
-│── 📂 images/              # Dataset of images  
-│── 📂 models/              # Pre-trained model storage  
-│── 📜 app.py               # Streamlit UI application  
-│── 📜 feature_extraction.py  # Extracts image feature vectors  
-│── 📜 search.py            # CLI for searching images  
-│── 📜 requirements.txt      # Required dependencies  
-│── 📜 README.md            # Project documentation  
-    </pre>
+    <h1>
+    📂 Visual_Search_Engine_using_VLM
+     │── 📂 images/              # Dataset of images  
+     │── 📂 models/              # Pre-trained model storage  
+     │── 📜 app.py               # Streamlit UI application  
+     │── 📜 feature_extraction.py  # Extracts image feature vectors  
+     │── 📜 search.py            # CLI for searching images  
+     │── 📜 requirements.txt      # Required dependencies  
+     │── 📜 README.md            # Project documentation  
+    
+    </h1>
 
     <h2>🔥 Technologies Used</h2>
     <ul>
@@ -67,4 +69,4 @@ source venv/bin/activate  # Windows: venv\Scripts\activate</code></pre>
 
     <h2>📜 License</h2>
     <p>This project is licensed under the <strong>MIT License</strong>.</p>
-</div>
+
