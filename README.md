@@ -45,10 +45,4 @@ python search.py --text "A cat sitting on a chair"
 
 
 
-### 🔧 Fixes and Improvements:
-- ✅ Replaced `<h1>, <h2>, <ul>` with proper **Markdown formatting**.
-- ✅ Removed unnecessary `<h1>` for code snippets and file structure.
-- ✅ Used **code blocks (` ```sh `)** for shell commands.
-- ✅ Made it **more readable** and **properly structured**.
 
-This file is now **GitHub-ready**! 🚀 Copy-paste it into `README.md`, and it will render correctly on GitHub. Let me know if you need further refinements! 😊
