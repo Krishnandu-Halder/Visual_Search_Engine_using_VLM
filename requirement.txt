@@ -1,6 +1,0 @@
-streamlit
-numpy
-pillow
-torch
-torchvision
-scipy
