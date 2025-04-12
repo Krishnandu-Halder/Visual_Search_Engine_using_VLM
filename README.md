@@ -5,7 +5,7 @@ A deep learning-based **Visual Search Engine** that retrieves similar images usi
 ---
 
 ## 🎥 Preview
-![Preview GIF](preview.gif)
+![Preview GIF](Preview.gif)
 
 ---
 
